@@ -10,6 +10,7 @@ Together with the code, it has been provided the Soccer  dataset, so it can be t
 - SoccerAutoBlurBB: original images after apply AutoBlur filtering technique and cropped them with the corresponding Bounding Box
 
 References:
+
 [1] J. van de Weijer, C. Schmid, Coloring Local Feature Extraction, Proc. ECCV2006, Graz, Austria, 2006.
 URL: http://lear.inrialpes.fr/people/vandeweijer/data.html
 
